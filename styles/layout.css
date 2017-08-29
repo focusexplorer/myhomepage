@@ -3,3 +3,10 @@ footer{
 	top:90vh;
 	text-align:center;
 }
+/* #blog,#note{border:3px solid gray;} */
+#blog,#note{position:fixed;width:10%;height:10%;text-align:center;font-size:x-large;}
+#blog{left:35vw;top:25vh;}
+#note{left:55vw;top:25vh;}
+
+
+a{text-decoration:none}
